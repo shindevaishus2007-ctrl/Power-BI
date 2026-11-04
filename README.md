@@ -77,6 +77,27 @@ Product Feedback & Satisfaction Matrix.
 
 Loyalty Member Status.
 
+ ## Page 3 — Marketing Campaigns & Inventory Analytics.
+
+ Marketing Campaign 
+ 
+ Total Influencer/Ad Spend
+ 
+  Inventory Turnover Ratio
+  
+  Out-of-Stock Rate %
+
+ 📊 Visuals.
+
+ Conversion Rate by Social Media Platform.
+
+ Campaign Revenue over Time.
+
+ Stock Levels vs. Reorder Points by Product.
+ 
+ 🎛️ Slicer.
+
+ Campaign Name / Season.
 
 
 
