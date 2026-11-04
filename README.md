@@ -25,15 +25,15 @@ The Power BI report will help marketing, sales, and retail operations teams unde
 
 ## Page 1 — Sales & Product Performance Overview
 
-## 🎴 Cards.
+🎴 Cards.
 
-*Total Revenue*
+Total Revenue
 
- *Total Units Sold*
+ Total Units Sold
  
- *Average Order Value (AOV)*
+ Average Order Value (AOV)
  
- *Top Selling Product Line
+ Top Selling Product Line
 
 
 
