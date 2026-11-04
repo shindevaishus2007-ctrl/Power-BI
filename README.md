@@ -35,6 +35,64 @@ Total Revenue
  
  Top Selling Product Line
 
+ 📊 Visuals.
+ 
+Revenue Distribution by Product Category.
+
+Sales Trend over Time.
+
+Sales Distribution by Region & Channel.
+
+Product Profit Margin by Item.
+
+🎛️ Slicers.
+
+Product Line.
+
+Region / Country.
+
+## Page 2 — Customer Demographics & Buying Behavior.
+
+🎴 Cards.
+
+ Total Customers
+ 
+Repeat Purchase Rate %
+
+Average Customer Loyalty Score
+
+Average Customer Rating (CSAT)
+
+📊 Visuals.
+
+Customer Distribution by Age Group & Demographics.
+
+Revenue by Purchase Channel.
+
+Spending Behavior by Customer Tier.
+
+Product Feedback & Satisfaction Matrix.
+
+🎛️ Slicer.
+
+Loyalty Member Status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
