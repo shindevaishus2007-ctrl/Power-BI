@@ -74,6 +74,7 @@ Spending Behavior by Product Category.
 Product Feedback & Satisfaction Matrix.
 
 🎛️ Slicer.
+
 Stock Status.
 
 Purchase Channel.
