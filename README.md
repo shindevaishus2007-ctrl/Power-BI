@@ -55,27 +55,29 @@ Region / Country.
 
 🎴 Cards.
 
- Total Customers
- 
-Repeat Purchase Rate %
+Total Reviews
 
-Average Customer Loyalty Score
+Total Orders
+
+Average Discount %
 
 Average Customer Rating (CSAT)
 
 📊 Visuals.
 
-Customer Distribution by Age Group & Demographics.
+Orders & Sales Distribution by Region.
 
 Revenue by Purchase Channel.
 
-Spending Behavior by Customer Tier.
+Spending Behavior by Product Category.
 
 Product Feedback & Satisfaction Matrix.
 
 🎛️ Slicer.
+Stock Status.
 
-Loyalty Member Status.
+Purchase Channel.
+
 
  ## Page 3 — Marketing Campaigns & Inventory Analytics.
 
