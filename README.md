@@ -51,7 +51,7 @@ Product Line.
 
 Region / Country.
 
-## Page 2 — Customer Demographics & Buying Behavior.
+## Page 2 — Sales Performance, Channel Mix & Customer Feedback.
 
 🎴 Cards.
 
@@ -79,29 +79,29 @@ Stock Status.
 
 Purchase Channel.
 
+## Page 3 — Inventory Health, Promotions & Regional Trends
 
- ## Page 3 — Marketing Campaigns & Inventory Analytics.
+Out of Stock Products
 
- Marketing Campaign 
- 
- Total Influencer/Ad Spend
- 
-  Inventory Turnover Ratio
-  
-  Out-of-Stock Rate %
+Out-of-Stock Rate %
 
- 📊 Visuals.
+Total Discount Given
 
- Conversion Rate by Social Media Platform.
+Active Regions
 
- Campaign Revenue over Time.
+📊 Visuals.
 
- Stock Levels vs. Reorder Points by Product.
- 
- 🎛️ Slicer.
+Net Sales & Discount Impact by Region.
 
- Campaign Name / Season.
+Sales Revenue over Time.
 
+Stock Status Breakdown by Product Line.
+
+🎛️ Slicer.
+
+Region.
+
+Order Date (Year / Quarter / Month).
 
 
 
