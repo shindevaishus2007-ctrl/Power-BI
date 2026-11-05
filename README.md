@@ -81,6 +81,8 @@ Purchase Channel.
 
 ## Page 3 — Inventory Health, Promotions & Regional Trends
 
+🎴 Cards.
+
 Out of Stock Products
 
 Out-of-Stock Rate %
