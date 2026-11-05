@@ -55,7 +55,7 @@ Region / Country.
 
 🎴 Cards.
 
-Total Reviews
+Gross Sales
 
 Total Orders
 
@@ -63,7 +63,7 @@ Average Discount %
 
 Average Customer Rating (CSAT)
 
-📊 Visuals.
+📊 Visuals
 
 Orders & Sales Distribution by Region.
 
